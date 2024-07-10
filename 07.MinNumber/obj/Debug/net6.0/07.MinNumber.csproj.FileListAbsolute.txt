@@ -1,0 +1,14 @@
+C:\SoftUni\WhileLoopLection\07.MinNumber\bin\Debug\net6.0\07.MinNumber.exe
+C:\SoftUni\WhileLoopLection\07.MinNumber\bin\Debug\net6.0\07.MinNumber.deps.json
+C:\SoftUni\WhileLoopLection\07.MinNumber\bin\Debug\net6.0\07.MinNumber.runtimeconfig.json
+C:\SoftUni\WhileLoopLection\07.MinNumber\bin\Debug\net6.0\07.MinNumber.dll
+C:\SoftUni\WhileLoopLection\07.MinNumber\bin\Debug\net6.0\07.MinNumber.pdb
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.AssemblyInfoInputs.cache
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.AssemblyInfo.cs
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.csproj.CoreCompileInputs.cache
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.dll
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\refint\07.MinNumber.dll
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.pdb
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\07.MinNumber.genruntimeconfig.cache
+C:\SoftUni\WhileLoopLection\07.MinNumber\obj\Debug\net6.0\ref\07.MinNumber.dll
