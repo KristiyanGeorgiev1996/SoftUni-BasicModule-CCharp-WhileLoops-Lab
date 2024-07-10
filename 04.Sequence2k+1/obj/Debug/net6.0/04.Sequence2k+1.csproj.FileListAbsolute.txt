@@ -1,0 +1,14 @@
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.exe
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.deps.json
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.runtimeconfig.json
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.dll
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\bin\Debug\net6.0\04.Sequence2k+1.pdb
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.AssemblyInfoInputs.cache
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.AssemblyInfo.cs
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.dll
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\refint\04.Sequence2k+1.dll
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.pdb
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\04.Sequence2k+1.genruntimeconfig.cache
+C:\SoftUni\WhileLoopLection\04.Sequence2k+1\obj\Debug\net6.0\ref\04.Sequence2k+1.dll
