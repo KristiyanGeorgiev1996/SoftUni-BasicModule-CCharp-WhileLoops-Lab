@@ -1,0 +1,14 @@
+C:\SoftUni\WhileLoopLection\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.exe
+C:\SoftUni\WhileLoopLection\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.deps.json
+C:\SoftUni\WhileLoopLection\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.runtimeconfig.json
+C:\SoftUni\WhileLoopLection\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.dll
+C:\SoftUni\WhileLoopLection\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.pdb
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfoInputs.cache
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfo.cs
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.dll
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\refint\03.SumNumbers.dll
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.pdb
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.genruntimeconfig.cache
+C:\SoftUni\WhileLoopLection\03.SumNumbers\obj\Debug\net6.0\ref\03.SumNumbers.dll
